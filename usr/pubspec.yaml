@@ -9,6 +9,10 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.8
   supabase_flutter: ^2.9.1
+  file_picker: ^8.1.4
+  xml: ^6.5.0
+  excel: ^4.0.3
+  file_saver: ^0.2.12
 
 dev_dependencies:
   flutter_test:
